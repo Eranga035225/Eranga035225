@@ -36,6 +36,8 @@ body{
 	outline: none;
 	border: none;
 	font-size: 20px;
+	font-color: black;
+	text-align:center;
 }
 
 #history{
@@ -74,7 +76,7 @@ body{
 h1{
 	font-size:50px;
 	font-family: 'Roboto', sans-serif;
-	
+	margin: 0 auto;
 }
 
 .number, .empty{
