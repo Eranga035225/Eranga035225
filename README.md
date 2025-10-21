@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Eranga Kavishanka
 
 <p align="center">
-  <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
-</p>
+  <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
+</p> -->
 <p align="center">
   <img src="https://img.icons8.com/color/24/000000/code.png" title="Full Stack Developer"/> 
   <b>Full Stack Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
