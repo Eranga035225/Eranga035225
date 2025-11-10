@@ -69,7 +69,7 @@ Building **real-world applications** that solve problems and enhance user experi
 
 ---
 
-## 💻 Project Highlights
+## 💻 Some Project Highlights
 
 ### **1. Secure E-Commerce Platform**
 - Built a secure online shopping system with user authentication and payment integration.
@@ -99,8 +99,7 @@ Visit site: [Sekin Express](https://sekinexpress.com/)
 
 ---
 
-## 🏆 Achievements
-- Currently the highest GPA in the Software Engineering Department (3.90)  
+## 🏆 Achievements 
 - Multicloud Network Associate - **Aviatrix Certified Engineer**  
 - Co-Founder and Full Stack Developer at [InventX Solutions](https://www.facebook.com/people/InventX-Solutions/61576573091654/?sk=about)  
 - Former member of Media Team of **IEEE Student Branch**  
