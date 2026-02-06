@@ -1,133 +1,123 @@
-# 👋 Hi, I'm Eranga Kavishanka
+# 👋 Hi, I'm Eranga Kavisanka
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Systems+Focused;Cloud+%26+DevOps+Engineer;AI+%26+ML+Research+Enthusiast;Building+Production-Grade+Systems" />
+  <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
+</p> -->
+<p align="center">
+  <img src="https://img.icons8.com/color/24/000000/code.png" title="Full Stack Developer"/> 
+  <b>Full Stack Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/24/000000/devops.png" title="DevOps"/> 
+  <b>DevOps Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/24/000000/flutter.png" title="Flutter"/> 
+  <b>Flutter Mobile App Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <!-- <img src="https://img.icons8.com/color/24/000000/cloud-network.png" title="Aviatrix"/>  -->
+  <b>Aviatrix Certified Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <!-- <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" title="AI/ML"/>  -->
+  <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <!-- <img src="https://img.icons8.com/color/24/000000/freelancer.png" title="Freelancer"/>  -->
+  <b>Freelancer</b>
 </p>
 
-<p align="center">
-  <a href="https://www.eranga-kavisanka.online/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/eranga-kavishanka/">LinkedIn</a> •
-  <a href="https://github.com/Eranga035225">GitHub</a>
-</p>
+
+Software engineering undergraduate and researcher with experience in **web, mobile, AI, and IoT projects**.  
+Building **real-world applications** that solve problems and enhance user experiences.
 
 ---
 
-## 🧑‍💻 Engineer Profile
+## 🛠️ Tech Stack
 
-```yaml
-engineer:
-  name: Eranga Kavishanka
-  role: Software Engineering Undergraduate
-  location: Sri Lanka
-  interests:
-    - Backend & Distributed Systems
-    - Cloud & DevOps Engineering
-    - AI / ML Systems
-    - IoT & Embedded Integration
-  career_goal:
-    - Top-tier software engineering roles
-    - Academia (Lecturer / Researcher)
-  mindset: "Build reliable systems first, then optimize."
-I focus on engineering problems, not just features.
-My work emphasizes scalability, reliability, security, and maintainability across real-world systems.
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
+<img src="https://img.icons8.com/ios/50/000000/express-js.png" title="Express.js"/>
+<img src="https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white" title="Laravel"/>
+<img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
+<img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" title="AI"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=keras&logoColor=white" title="Deep Learning"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
+<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
+<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/devops.png" title="DevOps"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/>
+<img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" title="IoT"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/jenkins.png" title="Jenkins"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
+<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
+<img src="https://img.icons8.com/ios-filled/50/000000/terraform.png" title="Terraform"/>
+<img src="https://img.icons8.com/color/48/000000/ansible.png" title="Ansible"/>
+<!-- <img src="https://img.icons8.com/color/48/000000/prometheus.png" title="Prometheus"/> -->
+<img src="https://img.icons8.com/color/48/000000/grafana.png" title="Grafana"/>
+</p>
 
-⚙️ Core Engineering Focus
-Backend architecture & RESTful API design
 
-Authentication, authorization & secure data handling
+---
 
-Cloud-native deployments & container orchestration
+## 💻 Some Project Highlights
 
-CI/CD pipelines & infrastructure automation
+### **1. Secure E-Commerce Platform**
+- Built a secure online shopping system with user authentication and payment integration.
+- Implemented robust security and database management.
 
-Applied machine learning systems
+### **2. Real World Client Project - Delivery Service System**
+- Backend developer for a real-time delivery management system.  
+Visit site: [Sekin Express](https://sekinexpress.com/)  
+- Integrated order tracking, notifications, and user management.
 
-IoT → Backend → Cloud data pipelines
+### **3. Full Stack E-Channeling Application**
+- Full stack web system for an e-channeling system, including all necessary features.
 
-🛠️ Languages, Frameworks & Tools
-text
-Copy code
-Languages     : Java, Python, C++, C, JavaScript, PHP
-Backend       : Spring Boot, Node.js, Express, Django, Laravel
-Frontend      : React, Angular
-Mobile        : Flutter
-Databases     : MySQL, PostgreSQL, MongoDB
-DevOps        : Docker, Kubernetes, Jenkins, GitLab CI
-Cloud         : AWS, Azure
-IaC           : Terraform, Ansible
-Systems       : Linux, Git, Networking
-AI / ML       : NumPy, Pandas, Scikit-learn, TensorFlow
-IoT           : Arduino, Sensors, MQTT
-🧪 Selected Engineering Projects
-🔐 Secure E-Commerce Platform
-text
-Copy code
-Architecture : MVC + REST
-Security     : Authentication, RBAC, input validation
-Database     : Relational schema design
-Focus        : Security, performance, maintainability
-🚚 Real-World Delivery Service System (Production)
-Role: Backend Engineer
-🌐 https://sekinexpress.com
+### **4. Health Monitoring IoT Device**
+- Prototype wearable device tracking pulse, blood pressure, sugar level, and body temperature.
+- Real-time sensor data monitoring with notifications.
 
-text
-Copy code
-Features:
-  - Order lifecycle management
-  - Role-based access control
-  - Notifications & tracking
-Stack:
-  - Backend: Node.js / Laravel
-  - Database: MySQL
-  - Deployment: Cloud-hosted
-🏥 IoT Health Monitoring System
-text
-Copy code
-Data Flow:
-  Sensors → Microcontroller → Backend → Dashboard
-Concepts:
-  - Real-time data ingestion
-  - Alert thresholds
-  - Reliability & fault tolerance
-🌦️ AI Weather Prediction System
-text
-Copy code
-Pipeline:
-  Data collection → preprocessing → ML model → evaluation → visualization
-Focus:
-  - Feature engineering
-  - Model accuracy
-  - Practical deployment
-📊 Engineering Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=tokyonight&hide_border=true" height="165"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranga035225&theme=tokyonight&hide_border=true" height="165"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eranga035225&layout=compact&theme=tokyonight&hide_border=true"/> </p>
-📈 Contribution Activity
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eranga035225&theme=tokyo-night&hide_border=true"/> </p>
-🐍 Contribution Snake
-<p align="center"> <img src="https://github.com/Eranga035225/Eranga035225/blob/output/github-contribution-grid-snake.svg"/> </p>
-🏆 Engineering & Leadership Highlights
-🥇 Aviatrix Certified Engineer (Multi-Cloud Networking)
+### **5. AI Weather Prediction System**
+- Machine learning model predicting weather patterns.
+- Integrated with web dashboard for visualization.
 
-📊 Dean’s List — GPA 3.9 (Highest in Department)
+---
 
-👨‍💻 Co-Founder & Engineer — InventX Solutions
+## 📈 GitHub Stats
 
-📡 IEEE Student Branch — Media & Program Committees
+![Eranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical)
 
-🏅 IEEE XTREME 17.0 — Program Team
+---
 
-🏦 Banking Intern — People’s Bank (1 year)
+## 🏆 Achievements 
+- Multicloud Network Associate - **Aviatrix Certified Engineer**  
+- Co-Founder and Full Stack Developer at [InventX Solutions](https://www.facebook.com/people/InventX-Solutions/61576573091654/?sk=about)  
+- Former member of Media Team of **IEEE Student Branch**  
+- Former member of Program Team of IEEE XTREME 17.0  
+- Completed multiple real-world projects in **Java, C++, C, SpringBoot, Flutter, MERN, MEAN, Python, Django, Laravel, PHP, Machine Learning, IoT**  
+- Mathematics Olympiad Competitor  
+- Worked as a Banking Intern at People's Bank (1 year experience)  
+- Former Vice President of Faculty Union  
+- Active Scout with leadership roles and national-level participation  
+- Successfully completed Yale College Diploma in English
 
-🧠 Mathematics Olympiad Competitor
+---
 
-🧭 Former Vice President — Faculty Union
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/eranga-kavishanka/)  
+- [GitHub](https://github.com/Eranga035225)  
 
-🌍 Scout — National-level leadership
+---
 
-🎓 Yale College Diploma in English
-
-📬 Contact
-text
-Copy code
-Portfolio : https://www.eranga-kavisanka.online/
-LinkedIn  : https://www.linkedin.com/in/eranga-kavishanka/
-GitHub    : https://github.com/Eranga035225
+### ⚡ Fun Fact
+I enjoy combining **software engineering with research** to solve real-world problems while learning new technologies every day! based on what u know me adjust this now improve this b adding nimations and visuals 
