@@ -1,22 +1,16 @@
-# 👋 Hi, I'm Eranga Kavisanka
+# 👋 Hi, I'm Eranga Kavishanka
 
 <p align="center">
-  <!-- <img src="https://tse1.mm.bing.net/th/id/OIP.1Ibe61TgsBhu7af6WxuFGwHaFj?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="Software Engineer" width="600"/>
-</p> -->
-<p align="center">
-  <img src="https://img.icons8.com/color/24/000000/code.png" title="Full Stack Developer"/> 
-  <b>Full Stack Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/24/000000/devops.png" title="DevOps"/> 
-  <b>DevOps Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/24/000000/flutter.png" title="Flutter"/> 
-  <b>Flutter Mobile App Developer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <!-- <img src="https://img.icons8.com/color/24/000000/cloud-network.png" title="Aviatrix"/>  -->
-  <b>Aviatrix Certified Engineer</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <!-- <img src="https://img.icons8.com/ios-filled/24/000000/artificial-intelligence.png" title="AI/ML"/>  -->
-  <b>AI/ML Enthusiast</b> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <!-- <img src="https://img.icons8.com/color/24/000000/freelancer.png" title="Freelancer"/>  -->
-  <b>Freelancer</b>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=00FFB3&center=true&vCenter=true&width=900&lines=Software+Engineer;Backend+%26+Systems+Focused;Cloud+%26+DevOps+Engineer;AI+%26+ML+Research+Enthusiast;Building+Production-Grade+Systems" />
 </p>
+
+<p align="center">
+  <a href="https://www.eranga-kavisanka.online/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/eranga-kavishanka/">LinkedIn</a> •
+  <a href="https://github.com/Eranga035225">GitHub</a>
+</p>
+
+---
 
 
 Software engineering undergraduate and researcher with experience in **web, mobile, AI, and IoT projects**.  
@@ -24,7 +18,7 @@ Building **real-world applications** that solve problems and enhance user experi
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
