@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eranga Kavisanka
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%7C+Full+Stack+Developer;DevOps+%26+Cloud+Engineer;Flutter+Mobile+Developer;AI+%26+ML+Research+Enthusiast;Aviatrix+Certified+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Engineer;" />
 </p>
 
 <p align="center">
