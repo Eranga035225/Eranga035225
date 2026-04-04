@@ -61,31 +61,7 @@
 </p>
 
 
----
 
-## 💻 Some Project Highlights
-
-### **1. Secure E-Commerce Platform**
-- Built a secure online shopping system with user authentication and payment integration.
-- Implemented robust security and database management.
-
-### **2. Real World Client Project - Delivery Service System**
-- Backend developer for a real-time delivery management system.  
-Visit site: [Sekin Express](https://sekinexpress.com/)  
-- Integrated order tracking, notifications, and user management.
-
-### **3. Full Stack E-Channeling Application**
-- Full stack web system for an e-channeling system, including all necessary features.
-
-### **4. Health Monitoring IoT Device**
-- Prototype wearable device tracking pulse, blood pressure, sugar level, and body temperature.
-- Real-time sensor data monitoring with notifications.
-
-### **5. AI Weather Prediction System**
-- Machine learning model predicting weather patterns.
-- Integrated with web dashboard for visualization.
-
----
 
 ## 📈 GitHub Stats
 
