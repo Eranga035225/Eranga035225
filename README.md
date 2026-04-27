@@ -26,80 +26,157 @@ Role        : DevOps Engineer | Cloud Enthusiast
 Focus       : DevOps | DevSecOps | SRE | Automation
 Stack       : AWS | Kubernetes | Terraform | Ansible | CI/CD
 Location    : Sri Lanka
+```
 
-## ⚡ About Me
+---
 
-🚀 DevOps & Cloud Engineer  
-💡 Focused on **automation, scalability, and system reliability**  
-⚙️ Hands-on experience with **real-world deployments & infrastructure setup**  
-☁️ Strong interest in **SRE, Cloud Architecture, and MLOps**
+## ⚡ About
+
+```bash
+- DevOps & Cloud-focused engineer
+- Hands-on with infrastructure automation & deployment pipelines
+- Experience with real-world deployments (AWS EC2, Nginx, Node.js, MongoDB, PM2)
+- Strong interest in distributed systems & reliability engineering
+- Background in full-stack + backend development
+```
 
 ---
 
 ## 🧠 DevOps Tech Stack
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Aviatrix](https://img.shields.io/badge/Aviatrix-FF6A00?style=flat-square)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible)
-
----
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aviatrix-FF6A00?style=flat-square"/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible"/>
+</p>
 
 ### ⚙️ CI/CD & Automation
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
-![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=flat-square)
-
----
+<p>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions"/>
+<img src="https://img.shields.io/badge/GitOps-326CE5?style=flat-square"/>
+</p>
 
 ### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes"/>
+</p>
 
----
+### 🖥️ Systems & Networking
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx"/>
+</p>
 
-### 🖥️ Systems & Monitoring
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
-
----
+### 📊 Observability
+<p>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana"/>
+</p>
 
 ### 🧑‍💻 Scripting & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 💻 Development Stack (Background)
+
+<p>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/c-programming.png"/>
+<img src="https://img.icons8.com/color/48/html-5.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/react-native.png"/>
+<img src="https://img.icons8.com/color/48/angularjs.png"/>
+<img src="https://img.icons8.com/color/48/flutter.png"/>
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/ios/50/express-js.png"/>
+<img src="https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white"/>
+<img src="https://img.icons8.com/color/48/spring-logo.png"/>
+<img src="https://img.icons8.com/color/48/django.png"/>
+<img src="https://img.icons8.com/color/48/python.png"/>
+<img src="https://img.icons8.com/color/48/php.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/postgreesql.png"/>
+</p>
+
+---
+
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical&hide_border=true" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranga035225&theme=radical&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eranga035225&theme=react-dark&hide_border=true"/>
+</p>
+
 ---
 
-## 🏆 Certifications
+## 🏆 Achievements & Experience
 
-🏅 AWS Certified Cloud Practitioner  
-🏅 Aviatrix Certified Engineer (Multi-Cloud Networking)  
+```bash
+- Aviatrix Certified Engineer (Multi-Cloud Networking)
+- AWS Certified Cloud Practitioner
+- Co-Founder & Full Stack Developer - InventX Solutions
+- IEEE Student Branch Member
+- IEEE Xtreme 17.0 Program Committee
+- Banking Intern - People's Bank (1 year)
+- Faculty Union Vice President
+- Mathematics Olympiad Competitor
+- Active Scout with leadership experience
+- Yale College Diploma in English
+```
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔥 Kubernetes (Debugging & Production Scenarios)  
-- ⚡ CI/CD Pipeline Engineering  
-- ☁️ Infrastructure as Code (Terraform + Ansible)  
-- 🤖 MLOps & AI Integration  
+```bash
+- Kubernetes (production debugging & troubleshooting)
+- CI/CD pipeline engineering
+- Infrastructure as Code (Terraform + Ansible)
+- DevSecOps practices
+- MLOps integration
+```
 
 ---
 
-## 📚 Philosophy
+## 🧠 Engineering Principles
 
-> "Automate everything. Scale anything. Break nothing."
+```bash
+- Automate everything possible
+- Design for scalability & resilience
+- Treat infrastructure as code
+- Monitor, log, and observe systems deeply
+- Continuously improve systems through iteration
+```
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Eranga035225/Eranga035225/output/snake.svg" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+```bash
+"Build systems that scale. Automate what breaks. Optimize what matters."
+```
 
 ---
