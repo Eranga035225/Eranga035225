@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Eranga Kavisanka
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=800&lines=DevOps+%26+Cloud+Engineer;" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Building+Scalable+%26+Reliable+Systems;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Future+SRE+Engineer" />
 </p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.eranga-kavisanka.online/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-eranga--kavisanka.online-0A66C2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🌍%20Portfolio-Visit%20Now-0A66C2?style=for-the-badge"/>
   </a>
   <a href="https://www.linkedin.com/in/eranga-kavishanka/">
     <img src="https://img.shields.io/badge/LinkedIn-Eranga%20Kavishanka-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -18,76 +22,79 @@
 
 ---
 
-## Tech Stack
+## ⚡ About Me
 
-<p align="center">
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" title="Java"/>
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" title="C++"/>
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" title="C"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML5"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
-<img src="https://img.icons8.com/color/48/000000/javascript.png" title="JavaScript"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png" title="React"/>
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" title="Angular"/>
-<img src="https://img.icons8.com/color/48/000000/flutter.png" title="Flutter"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" title="Node.js"/>
-<img src="https://img.icons8.com/ios/50/000000/express-js.png" title="Express.js"/>
-<img src="https://img.shields.io/badge/Laravel-EA4C89?style=flat-square&logo=laravel&logoColor=white" title="Laravel"/>
-<img src="https://img.icons8.com/color/48/000000/spring-logo.png" title="Spring Boot"/>
-<img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-<img src="https://img.icons8.com/color/48/000000/python.png" title="Python"/>
-<img src="https://img.icons8.com/color/48/000000/php.png" title="PHP"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB"/>
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" title="MySQL"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" title="PostgreSQL"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" title="AI"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-FF6F61?style=flat-square&logo=keras&logoColor=white" title="Deep Learning"/>
-<img src="https://img.icons8.com/color/48/000000/docker.png" title="Docker"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-<img src="https://img.icons8.com/color/48/000000/linux.png" title="Linux"/>
-<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/>
-<img src="https://img.icons8.com/color/48/000000/azure-1.png" title="Azure"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/devops.png" title="DevOps"/>
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" title="Kubernetes"/>
-<img src="https://img.icons8.com/color/48/000000/arduino.png" title="Arduino"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" title="IoT"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/jenkins.png" title="Jenkins"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" title="GitLab"/>
-<img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" title="GitHub"/>
-<img src="https://img.icons8.com/ios-filled/50/000000/terraform.png" title="Terraform"/>
-<img src="https://img.icons8.com/color/48/000000/ansible.png" title="Ansible"/>
-<!-- <img src="https://img.icons8.com/color/48/000000/prometheus.png" title="Prometheus"/> -->
-<img src="https://img.icons8.com/color/48/000000/grafana.png" title="Grafana"/>
-</p>
+🚀 DevOps & Cloud Engineer  
+💡 Focused on **automation, scalability, and system reliability**  
+⚙️ Hands-on experience with **real-world deployments & infrastructure setup**  
+☁️ Strong interest in **SRE, Cloud Architecture, and MLOps**
 
+---
 
+## 🧠 DevOps Tech Stack
 
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Aviatrix](https://img.shields.io/badge/Aviatrix-FF6A00?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible)
+
+---
+
+### ⚙️ CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions)
+![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=flat-square)
+
+---
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes)
+
+---
+
+### 🖥️ Systems & Monitoring
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
+
+---
+
+### 🧑‍💻 Scripting & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![Bash](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+
+---
 
 ## 📈 GitHub Stats
 
-![Eranga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eranga035225&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eranga035225&theme=radical&hide_border=true" height="180"/>
+</p>
 
 ---
 
-## 🏆 Achievements 
-- Multicloud Network Associate - **Aviatrix Certified Engineer**  
-- Co-Founder and Full Stack Developer at [InventX Solutions](https://www.facebook.com/people/InventX-Solutions/61576573091654/?sk=about)  
-- Former member of Media Team of **IEEE Student Branch**  
-- Former member of Program Team of IEEE XTREME 17.0  
-- Completed multiple real-world projects in **Java, C++, C, SpringBoot, Flutter, MERN, MEAN, Python, Django, Laravel, PHP, Machine Learning, IoT**  
-- Mathematics Olympiad Competitor  
-- Worked as a Banking Intern at People's Bank (1 year experience)  
-- Former Vice President of Faculty Union  
-- Active Scout with leadership roles and national-level participation  
-- Successfully completed Yale College Diploma in English
+## 🏆 Certifications
+
+🏅 AWS Certified Cloud Practitioner  
+🏅 Aviatrix Certified Engineer (Multi-Cloud Networking)  
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/eranga-kavishanka/)  
-- [GitHub](https://github.com/Eranga035225)  
+## 🎯 Current Focus
+
+- 🔥 Kubernetes (Debugging & Production Scenarios)  
+- ⚡ CI/CD Pipeline Engineering  
+- ☁️ Infrastructure as Code (Terraform + Ansible)  
+- 🤖 MLOps & AI Integration  
 
 ---
 
-### ⚡ Fun Fact
-I enjoy combining **software engineering with research** to solve real-world problems while learning new technologies every day! based on what u know me adjust this now improve this b adding nimations and visuals 
+## 📚 Philosophy
+
+> "Automate everything. Scale anything. Break nothing."
+
+---
