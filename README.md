@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ Eranga Kavisanka </h1>
+<h1 align="center">⚙️  Eranga Kavisanka </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E7FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Cloud+%7C+SRE+%7C+Automation;Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+Reliable+%26+Scalable+Systems" />
